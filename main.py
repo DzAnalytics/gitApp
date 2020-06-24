@@ -1,5 +1,6 @@
 import login
 print("\nThis is the main project")
-print("")
+for i in range(10):
+    print(i)
 print("End")
 
